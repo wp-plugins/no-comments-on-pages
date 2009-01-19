@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: No Comments On Pages
-Plugin URI: http://jaka.kubje.org/software/ncop
+Plugin URI: http://jaka.kubje.org/wp/software/no-comments-on-pages/
 Description: When activated, disables posting of comments to pages and hides all existing ones.
 Version: 1.0.0
 Author: Jaka Jancar
