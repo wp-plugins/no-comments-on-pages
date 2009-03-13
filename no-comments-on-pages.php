@@ -35,7 +35,8 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 function ncop_comments_open_filter($open, $post_id=null)
 {
-    return $open && get_post($post_id)->post_type !== 'page';
+    $post = get_post($post_id);
+    return $open && $post->post_type !== 'page';
 }
 
 function ncop_comments_template_filter($file)
