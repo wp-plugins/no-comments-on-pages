@@ -3,7 +3,7 @@ Contributors: JakaJancar
 Tags: comments, pages
 Requires at least: 2.7
 Tested up to: 2.7
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 
 A tiny WordPress plugin which, when activated, disables posting of new comments to all pages and hides existing ones.
 
